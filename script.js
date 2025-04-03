@@ -1,3 +1,3 @@
-function showMessage() {
-    document.getElementById("message").textContent = "Hello, GitHub Pages!";
-}
+document.querySelector(".cloaker").addEventListener("click", function() {
+    alert("Cloaker feature coming soon!");
+});
